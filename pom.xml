@@ -23,9 +23,9 @@ limitations under the License.
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>example</groupId>
-    <artifactId>chaincode-SimpleSample</artifactId>
+    <artifactId>block-learn</artifactId>
     <packaging>jar</packaging>
-    <name>java-SimpleSample-example</name>
+    <name>block-learn</name>
     <version>1.0</version>
     <url>http://maven.apache.org</url>
     <build>

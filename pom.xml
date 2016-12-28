@@ -42,7 +42,7 @@ limitations under the License.
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
-                            <mainClass>example.SimpleSample</mainClass>
+                            <mainClass>example.GxlSample</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
